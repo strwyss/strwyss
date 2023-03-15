@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strwyss&label=Profile%20views&color=0e75b6&style=flat" alt="strwyss" /> </p>
 
-- 🔭 I’m currently working on **Majoo**
+- 🔭 I’m currently working on **Majoo Teknologi**
 
 - 🌱 I’m currently learning **Fullstack Web Development**
 
